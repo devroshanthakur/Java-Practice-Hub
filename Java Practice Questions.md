@@ -1,15 +1,15 @@
 # Java Practice Questions
 
 ## **1. Basic Java Programs**
-1. Write a program that prints "Hello, World!".
-2. Write a program to check if a number is even or odd.
-3. Write a program to find the sum of the first N natural numbers.
-4. Write a program to calculate the factorial of a given number.
-5. Write a program to check if a number is a palindrome.
-6. Write a program to reverse a string.
-7. Write a program to print the Fibonacci series up to N terms.
-8. Write a program to check if a number is prime.
-9. Write a program to check if a number is an Armstrong number.
+01. Write a program that prints "Hello, World!".
+02. Write a program to check if a number is even or odd.
+03. Write a program to find the sum of the first N natural numbers.
+04. Write a program to calculate the factorial of a given number.
+05. Write a program to check if a number is a palindrome.
+06. Write a program to reverse a string.
+07. Write a program to print the Fibonacci series up to N terms.
+08. Write a program to check if a number is prime.
+09. Write a program to check if a number is an Armstrong number.
 10. Write a program to calculate the sum of digits of a number.
 
 ## **2. String Handling**
